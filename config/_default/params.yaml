@@ -7,9 +7,9 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2025. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -100,7 +100,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 15
+    zoom: 14
 
 # Extensions
 

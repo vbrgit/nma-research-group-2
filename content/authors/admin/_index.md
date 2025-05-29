@@ -58,5 +58,5 @@ user_groups:
 
 ---
 
-The research group **Numerical Methods and Applications** at UC3M focuses on developing, analyzing, and implementing numerical methods to address challenges at the intersection of mathematics, science/engineering, and high-performance scientific computing. 
+The research group **Numerical Methods and Applications (NuMA)** at UC3M focuses on developing, analyzing, and implementing numerical methods to address challenges at the intersection of mathematics, science/engineering, and high-performance scientific computing. 
 
