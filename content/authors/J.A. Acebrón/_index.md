@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
