@@ -87,17 +87,12 @@ sections:
 
 
   - block: collection
+    id: projects
     content:
       title: Past Projects
       subtitle:
       text:
       count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
       offset: 0
       order: desc
       page_type: projects
